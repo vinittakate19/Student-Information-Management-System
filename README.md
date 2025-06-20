@@ -75,22 +75,25 @@ pip install pandas openpyxl
 
 ---
 
-## ✅ 3. 📸 Carousel Story Format for LinkedIn (Code Screenshot Sequence)
+## ✅ 3.  (Code Screenshot )
+![Screenshot 2025-06-20 181014](https://github.com/user-attachments/assets/f61dd969-97d5-4b4e-96db-b72a3bd4dafe)
 
-Upload as a **carousel post** with these image names and captions:
 
-| Slide No. | File Name         | Caption                                                                   
-|-----------|-------------------|------------------------------------------------------------------------  
-| 1         | title_card.png     | **Project: Student Information Management System**<br>Built in Python using Tkinter + Pandas |
-| 2         | ss1_imports.png    | 🧠 Initial setup: Importing modules and auto-creating Excel file        |
-| 3         | ss2_login_func.png | 🔐 Login function with validation and secure message popups             |
-| 4         | ss3_save_data.png  | 💾 Saving form data to Excel with validation and error handling         |
-| 5         | ss4_delete_all.png | 🗑️ Delete all records with confirmation                                 |
-| 6         | ss5_delete_row.png | 🧹 Delete a specific student using Roll No                              |
-| 7         | ss6_show_data.png  | 📊 Showing data live in GUI using `Text()` widget                       |
-| 8         | ss7_data_entry_gui.png | 🎛️ GUI layout – Entry fields, buttons, and text box                 |
-| 9         | ss8_login_gui.png  | 🪪 Full Login Window Design using Tkinter                               |
-| 10        | final_output.png   | 🎉 Final Output Screenshot: Working App UI in action                    |
+![Screenshot 2025-06-20 181026](https://github.com/user-attachments/assets/b6053246-03b7-422a-9e87-a00b02f4f80e)
+
+![Screenshot 2025-06-20 181128](https://github.com/user-attachments/assets/2eab146d-7565-44c6-a729-8a6aa38b81cf)
+
+![SS1](https://github.com/user-attachments/assets/2086c8b0-bfee-4291-8b89-facafc9f9aaf)
+
+![SS2](https://github.com/user-attachments/assets/74db3dfd-8638-4a14-adb3-8e7ef385fca0)
+![SS3](https://github.com/user-attachments/assets/088616db-9ebc-4ae1-b111-bc214c22ae7b)
+![SS4](https://github.com/user-attachments/assets/1d3d3d8f-7b69-4389-8ce4-5df52f8411b7)
+![SS5](https://github.com/user-attachments/assets/f3c2ae09-55f1-4b61-bcdc-6c87b6bb46df)
+![SS6](https://github.com/user-attachments/assets/df96ebf8-938d-46ad-83ac-58ba32fcf5e5)
+![SS7](https://github.com/user-attachments/assets/be048686-4179-49da-bf8a-324076f163b6)
+
+![SS8](https://github.com/user-attachments/assets/370d48bb-d233-4c88-9c78-1c7a889c290a)
+
 
 ---
 
