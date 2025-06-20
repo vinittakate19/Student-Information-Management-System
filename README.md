@@ -94,6 +94,7 @@ pip install pandas openpyxl
 
 ![SS8](https://github.com/user-attachments/assets/370d48bb-d233-4c88-9c78-1c7a889c290a)
 
+https://www.linkedin.com/posts/vinit-takate-815939252_python-tkinter-pandas-activity-7341809051892125696-Djwq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5uQFEBSlHJUOZNCuPio20o-1n93C2tNCI
 
 ---
 
